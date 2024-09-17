@@ -9,19 +9,20 @@ global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
-global.botname = '𝙂𝙇𝙊𝘽𝘼𝙇-𝙓𝙈𝘿' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
+global.botname = '🥷🤫کالا ڈاکو 🥷' //ur bot name
+global.ownernumber = ['923286835876'] //ur owner number, dont add more than one
 global.ownername = '© GlobalTechInfo' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
-global.themeemoji = '🪀'
+global.wagc = "https://github.com/GlobalTechInfo/XeonBug-V8
+	https://chat.whatsapp.com/DT1FHkwYBSy2FQHTLuVihz"
+global.themeemoji = '🥷🥷'
 global.wm = "Global Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-XMD' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
-global.creator = "923444844060@s.whatsapp.net"
+global.author = "GlobalTechInfo\n\n+923286835876"
+global.creator = "923286835876@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["923286835876"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -68,7 +69,7 @@ global.game = {
 	tebakbom: {},
 }
 
-//~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
+//~~~~~~~~~~~~~~~< کالا ڈاکو بھل کے >~~~~~~~~~~~~~~~\\
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
